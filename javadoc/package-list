@@ -1,5 +1,6 @@
-com.asakusafw.retz.cli
-com.asakusafw.retz.executor
-com.asakusafw.retz.mesos
-com.asakusafw.retz.protocol
-com.asakusafw.retz.web
+io.github.retz.cli
+io.github.retz.executor
+io.github.retz.mesos
+io.github.retz.protocol
+io.github.retz.scheduler
+io.github.retz.web
