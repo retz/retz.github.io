@@ -1,6 +1,10 @@
+io.github.retz.admin
+io.github.retz.auth
+io.github.retz.bean
 io.github.retz.cli
-io.github.retz.executor
-io.github.retz.mesos
+io.github.retz.db
+io.github.retz.localexecutor
 io.github.retz.protocol
+io.github.retz.protocol.data
 io.github.retz.scheduler
 io.github.retz.web
