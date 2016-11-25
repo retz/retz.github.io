@@ -30,7 +30,7 @@ git rm -rf javadoc
 
 echo "Adding new Javadoc"
 cp -r retz/build/docs/javadoc .
-git add javadoc
+git add -u -f javadoc
 
 git commit -m "Update javadoc to Retz ${TAG}" -S
 
