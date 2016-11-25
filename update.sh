@@ -15,6 +15,7 @@ if [ ! -d "retz" ]; then
     git clone git://github.com/retz/retz --branch ${TAG}
 else
     git -C retz fetch
+    git -C retz fetch --tags
     git -C retz checkout ${TAG}
 fi
 
